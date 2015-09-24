@@ -1,0 +1,51 @@
+%HMM	
+Ç¶Å[	e:
+Ç¶Å[Ç∆	e: t o
+Ç¶Å[Ç¡Ç∆	e: q t o
+Ç¶Å[Ç¡Ç∆Å[	e: q t o:
+Ç†Å[	a:
+Ç†Å[Ç∆	a: t o
+Ç†Å[Ç¡Ç∆	a: q t o
+#Ç†Ç¡Ç†	a q a
+ÇÒÅ[	 N N
+ÇÒÅ[Ç∆	 N N t o
+ÇÒÅ[Ç¡Ç∆	 N N q t o
+Ç†ÇÃÅ[	a n o:
+ÇªÇÃÅ[	s o n o:
+Ç∆	t o
+Ç¡Ç∆	q t o
+Ç§Å[ÇÒ	u: N
+Ç§Å[ÇÒÇ∆	u: N t o
+
+%NOISE	
+NS	sp
+	
+%NO_B	
+silB	silB
+	
+%NO_E	
+silE	silE
+
+%DIGIT	
+ÇO	z e r o
+ÇO	r e:
+ÇO	m a r u
+ÇP	i ch i
+ÇQ	n i q
+ÇQ	n i:
+ÇR	s a N
+ÇS	sh i q
+ÇS	sh i:
+ÇS	y o N
+ÇT	g o
+ÇT	g o:
+ÇU	r o k u
+ÇV	n a n a
+ÇV	sh i ch i
+ÇV	h i ch i
+ÇW	h a ch i
+ÇX	ky u:
+ÇÃ	n o
+	
+%DESU	
+Ç≈Ç∑	d e s u

@@ -1,0 +1,3 @@
+-gram fruit
+-C ../../hmm_ptm.jconf
+-input mic -demo
