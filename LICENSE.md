@@ -1,6 +1,7 @@
 The MIT License (MIT)
 
-Copyright (c) 2015 julius-speech
+Copyright (c) 1991-2015 Kawahara Lab., Kyoto University
+Copyright (c) 2005-2015 Julius project team, Lee Lab., Nagoya Institute of Technology
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
