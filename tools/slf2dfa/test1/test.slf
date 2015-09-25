@@ -1,0 +1,26 @@
+VERSION=1.0
+N=9    L=15   
+I=0    W=SENT-END            
+I=1    W=FOUR                
+I=2    W=!NULL               
+I=3    W=THREE               
+I=4    W=TWO                 
+I=5    W=ONE                 
+I=6    W=SENT-START          
+I=7    W=!NULL               
+I=8    W=!NULL               
+J=0     S=2    E=0    
+J=1     S=2    E=1    
+J=2     S=6    E=1    
+J=3     S=1    E=2    
+J=4     S=3    E=2    
+J=5     S=4    E=2    
+J=6     S=5    E=2    
+J=7     S=2    E=3    
+J=8     S=6    E=3    
+J=9     S=2    E=4    
+J=10    S=6    E=4    
+J=11    S=2    E=5    
+J=12    S=6    E=5    
+J=13    S=8    E=6    
+J=14    S=0    E=7    

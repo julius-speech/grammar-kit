@@ -1,0 +1,95 @@
+VERSION=1.0
+N=31   L=62   
+I=0    W=SENT-END            
+I=1    W=YOUNG               
+I=2    W=!NULL               
+I=3    W=STEVE               
+I=4    W=WOODLAND            
+I=5    W=PHIL                
+I=6    W=OLLASON             
+I=7    W=DAVE                
+I=8    W=ODELL               
+I=9    W=JULIAN              
+I=10   W=JANSEN              
+I=11   W=JOOP                
+I=12   W=CALL                
+I=13   W=!NULL               
+I=14   W=PHONE               
+I=15   W=ZERO                
+I=16   W=!NULL               
+I=17   W=OH                  
+I=18   W=NINE                
+I=19   W=EIGHT               
+I=20   W=SEVEN               
+I=21   W=SIX                 
+I=22   W=FIVE                
+I=23   W=FOUR                
+I=24   W=THREE               
+I=25   W=TWO                 
+I=26   W=ONE                 
+I=27   W=DIAL                
+I=28   W=SENT-START          
+I=29   W=!NULL               
+I=30   W=!NULL               
+J=0     S=2    E=0    
+J=1     S=16   E=0    
+J=2     S=3    E=1    
+J=3     S=13   E=1    
+J=4     S=1    E=2    
+J=5     S=4    E=2    
+J=6     S=6    E=2    
+J=7     S=8    E=2    
+J=8     S=10   E=2    
+J=9     S=13   E=3    
+J=10    S=5    E=4    
+J=11    S=13   E=4    
+J=12    S=13   E=5    
+J=13    S=7    E=6    
+J=14    S=13   E=6    
+J=15    S=13   E=7    
+J=16    S=9    E=8    
+J=17    S=13   E=8    
+J=18    S=13   E=9    
+J=19    S=11   E=10   
+J=20    S=13   E=10   
+J=21    S=13   E=11   
+J=22    S=28   E=12   
+J=23    S=12   E=13   
+J=24    S=14   E=13   
+J=25    S=28   E=14   
+J=26    S=16   E=15   
+J=27    S=27   E=15   
+J=28    S=15   E=16   
+J=29    S=17   E=16   
+J=30    S=18   E=16   
+J=31    S=19   E=16   
+J=32    S=20   E=16   
+J=33    S=21   E=16   
+J=34    S=22   E=16   
+J=35    S=23   E=16   
+J=36    S=24   E=16   
+J=37    S=25   E=16   
+J=38    S=26   E=16   
+J=39    S=16   E=17   
+J=40    S=27   E=17   
+J=41    S=16   E=18   
+J=42    S=27   E=18   
+J=43    S=16   E=19   
+J=44    S=27   E=19   
+J=45    S=16   E=20   
+J=46    S=27   E=20   
+J=47    S=16   E=21   
+J=48    S=27   E=21   
+J=49    S=16   E=22   
+J=50    S=27   E=22   
+J=51    S=16   E=23   
+J=52    S=27   E=23   
+J=53    S=16   E=24   
+J=54    S=27   E=24   
+J=55    S=16   E=25   
+J=56    S=27   E=25   
+J=57    S=16   E=26   
+J=58    S=27   E=26   
+J=59    S=28   E=27   
+J=60    S=30   E=28   
+J=61    S=0    E=29   
