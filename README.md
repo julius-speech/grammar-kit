@@ -163,6 +163,10 @@ DFA has 10 nodes and 18 arcs
 
 ## Using grammar on Julius
 
+*Warning: An English acoustic model is needed to run the recognition grammars on Julius.
+Currently we have no English acoustic model available for free.  Descriptions below are mere explanation of grammar specification in Julius. 
+Sorry for inconvenience.*
+
 To use the grammar on Julius,
 
 - Remove `-d ngram` and `-v dictionary` options from its configuration, since they are N-gram files
