@@ -1,4 +1,4 @@
-# Grammar kit for Julius
+# Recognition Grammar Toolkit for Julius
 
 This package is a grammar kit for Julius, containing:
 
