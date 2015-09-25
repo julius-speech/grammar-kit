@@ -1,4 +1,4 @@
-(For Japanese language, see [00readme-ja.txt](https://github.com/julius-speech/grammar-kit/blob/master/00readme-ja.txt) and [HOWTO-ja.txt](https://github.com/julius-speech/grammar-kit/blob/master/HOWTO-ja.txt) to see how to run the samples.  After that, read the instruction below to know how to build your own grammar.)
+(For Japanese language, first see [00readme-ja.txt](https://github.com/julius-speech/grammar-kit/blob/master/00readme-ja.txt) and [HOWTO-ja.txt](https://github.com/julius-speech/grammar-kit/blob/master/HOWTO-ja.txt) to see how to run the samples.  After that, read the instruction below to know how to build your own grammar.)
 
 
 # How to write a recognition grammar for Julius
