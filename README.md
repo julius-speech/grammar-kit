@@ -1,4 +1,15 @@
-(For Japanese language, first take a look at [00readme-ja.txt](https://github.com/julius-speech/grammar-kit/blob/master/00readme-ja.txt) and [HOWTO-ja.txt](https://github.com/julius-speech/grammar-kit/blob/master/HOWTO-ja.txt) to see how to run the samples.  After that, read the instruction below to build your own grammar.)
+# Grammar kit for Julius
+
+This package is a grammar kit for Julius, containing sample g
+
+- How-to documents to use and build grammar.
+- Sample grammars (ja/en)
+- Julius executables for Win/Linux
+- Acoustic models (ja)
+
+For English, an English acoustic model is needed to run the sample grammars on Julius.  Sample grammars cannot be run without English acoustic model for Julius.  Currently we have no English acoustic model available for free.  Sorry for inconvenience.
+
+For Japanese, you can run recognition on the sample grammars with this kit. first take a look at [00readme-ja.txt](https://github.com/julius-speech/grammar-kit/blob/master/00readme-ja.txt) and [HOWTO-ja.txt](https://github.com/julius-speech/grammar-kit/blob/master/HOWTO-ja.txt) to see how to run the samples in Japanese.  After that, read the instruction below to build your own grammar.
 
 
 # How to write a recognition grammar for Julius
