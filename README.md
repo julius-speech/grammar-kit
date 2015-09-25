@@ -2,10 +2,10 @@
 
 This package is a grammar kit for Julius, containing:
 
-- How-to documents to use and build grammar.
-- Sample grammars (ja/en)
-- Julius executables for Win/Linux
-- Acoustic models (ja)
+- How-to documents to use and build grammar,
+- Sample grammars (ja/en),
+- Julius executables for Win/Linux,
+- Acoustic models (ja).
 
 For English, an English acoustic model is needed to run the sample grammars on Julius.  Sample grammars cannot be run without English acoustic model for Julius.  Currently we have no English acoustic model available for free.  Sorry for inconvenience.
 
