@@ -5,6 +5,7 @@ This package is a grammar kit for Julius, containing:
 - How-to documents to use and build grammar,
 - Sample grammars (ja/en),
 - Julius executables for Win/Linux,
+- Conversion tools,
 - Acoustic models (ja).
 
 For English, an English acoustic model is needed to run the sample grammars on Julius.  Sample grammars cannot be run without English acoustic model for Julius.  Currently we have no English acoustic model available for free.  Sorry for inconvenience.
@@ -186,3 +187,11 @@ To use the grammar on Julius,
 Julius supports multiple grammar recognition.  When specifying grammars mutilple times using `-gram`, Julius reads all of them and perform recognition for all the grammars, and output only result of the highest score.  You can also get recognition results for all the given grammars by specifying `-multigramout` option.
 
 The rest options are the same as Julius. See other documents of Julius for all the detailed functions and options of Julius.
+
+## Tools
+
+### slf2dfa
+
+This toolkit converts an HTK recognition grammar into Julian format. A word network (SLF) will be converted to DFA format, and the words in the SLF are extracted from the dictionary to be used in Julian. Furthermore, word category will be automatically detected and defined to optimize performance.
+
+To use the tool, see the "tools/slf2dfa" folder.
