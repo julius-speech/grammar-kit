@@ -1,6 +1,6 @@
 # Grammar kit for Julius
 
-This package is a grammar kit for Julius, containing sample g
+This package is a grammar kit for Julius, containing:
 
 - How-to documents to use and build grammar.
 - Sample grammars (ja/en)
