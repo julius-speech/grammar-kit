@@ -1,3 +1,6 @@
+(For Japanese language, see the [00readme-ja.txt](https://github.com/julius-speech/grammar-kit/blob/master/00readme-ja.txt) and [HOWTO-ja.txt](https://github.com/julius-speech/grammar-kit/blob/master/HOWTO-ja.txt).
+
+
 # How to write a recognition grammar for Julius
 
 ## Recognition Grammar
