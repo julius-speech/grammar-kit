@@ -1,0 +1,26 @@
+# jconf file for fruit grammar (fast setting)  for dictation-kit-v3.0
+#
+# this jconf file assume that this archive is expanded
+# at the top dictionary of Julius dictation kit directory.
+#
+#  dictation-kit-v3.0/
+#	00readme.txt
+#	bin/
+#	...
+#	fruit/
+#	    julian_fruit_fast.jconf       (!this file should be here!)
+#
+
+# DFA file 
+-dfa fruit.dfa
+# dict file
+-v fruit.dict
+
+# acoustic HMM
+-h ../model/phone_m/hmmdefs_ptm_gid.binhmm
+-hlist ../model/phone_m/logicalTri
+
+# other common setting
+-zmean -rejectshort 800
+-demo
+-input mic
