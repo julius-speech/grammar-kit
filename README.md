@@ -1,6 +1,6 @@
 # Recognition Grammar Toolkit for Julius
 
-This package is a grammar kit for Julius, containing:
+This package is a grammar kit for [Julius](https://github.com/julius-speech/julius), containing:
 
 - How-to documents to use and build grammar,
 - Sample grammars (ja/en),
