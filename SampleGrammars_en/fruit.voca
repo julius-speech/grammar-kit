@@ -1,29 +1,46 @@
-% FRUIT
-–¨Š¹           m i k a N
-ƒŠƒ“ƒS         r i N g o
-‚Ô‚Ç‚¤         b u d o:
-% NUM
-0         z e r o
-1         i ch i
-2         n i:
-3         s a N
-4         y o N
-5         g o:
-6         r o k u
-7         n a n a
-8         h a ch i
-9         ky u:
-% KO
-ŒÂ             k o
-% WO
-‚ð             o
-% KUDASAI
-‚­‚¾‚³‚¢       k u d a s a i
-% NISHITE
-‚É‚µ‚Ä         n i sh i t e
-% DESU
-‚Å‚·           d e s u
 % NS_B
-<s>            silB
+<s>		sil
+
 % NS_E
-</s>           silE
+</s>		sil
+
+% HMM
+FILLER		f m
+FILLER		w eh l
+
+% TAKE_V
+I'lltake	ay l t ey k
+I'llhave	ay l hh ar v
+
+% PLEASE
+please		p l iy z
+
+% FRUIT_N_1
+apple		ae p ax l
+orange		ao r ax n jh
+orange		ao r ix n jh
+grape		g r ey p
+banana		b ax n ae n ax
+plum		p l ah m
+
+% FRUIT_N
+apples		ae p ax l z
+oranges		ao r ax n jh ax z
+oranges		ao r ix n jh ix z
+grapes		g r ey p s
+bananas		b ax n ae n ax z
+plums		p l ah m s
+
+% NUM
+one		w ah n
+two		t uw
+three		th r iy
+four		f ao r
+five		f ay v
+six		s ih k s
+seven		s eh v ax n
+eight		ey t
+nine		n ay n
+ten		t eh n
+eleven		ix l eh v ax n
+twelve		t w eh l v
